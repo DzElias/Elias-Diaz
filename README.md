@@ -1,4 +1,4 @@
-  👋 Hola! Soy Elias () {
+  Class Elias () {
   
   '🌱' =  'Estudiante de Ingenieria en Sistemas',
   
